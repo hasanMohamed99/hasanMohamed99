@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanmohamed99" alt="hasanmohamed99" /></a> </p>
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Flutter**
 
